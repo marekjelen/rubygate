@@ -28,4 +28,4 @@ Experiment ... 5 hours on Sunday.
 
 ## License
 
-Currently released under the terms of {MIT License}[http://www.opensource.org/licenses/MIT].
+Currently released under the terms of (MIT License)[http://www.opensource.org/licenses/MIT].
