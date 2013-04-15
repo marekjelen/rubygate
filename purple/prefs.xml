@@ -1,0 +1,10 @@
+<?xml version='1.0' encoding='UTF-8' ?>
+
+<pref version='1' name='/'>
+  <pref name='purple'>
+    <pref name='logging'>
+      <pref name='log_ims' type='bool' value='1'/>
+      <pref name='format' type='string' value='html'/>
+    </pref>
+  </pref>
+</pref>
